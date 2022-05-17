@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+  <question name="ВОВ №1">
+    <text>Когда началась Великая Отечественная война</text>
+    <time>10</time>
+    <difficulty>1</difficulty>
+    <variants>1939,False,-10
+1945,False,-10
+1941,True,10
+1812,False,-10
+</variants>
+  </question>
+  <question name="ВОВ №2">
+    <text>Когда закончилась Великая Отечетвенная Война?</text>
+    <time>10</time>
+    <difficulty>1</difficulty>
+    <variants>1941,False,-10
+1945,True,10
+1939,False,-10
+1955,False,-10
+</variants>
+  </question>
+  <question name="ВОВ №3">
+    <text>Какие имя и фамилия зашифрованы в названии советского танка «ИС»?</text>
+    <time>10</time>
+    <difficulty>2</difficulty>
+    <variants>Иоан Старцев,False,-10
+Иван Стародубов,False,-10
+Иркутский Стройотряд,False,-10
+Иосиф Сталин,True,10
+</variants>
+  </question>
+  <question name="ВОВ №4">
+    <text>Назовите белорусский город, под которым 14 июля 1941 года наша армия впервые применила «катюши».</text>
+    <time>15</time>
+    <difficulty>4</difficulty>
+    <variants>Львов,False,-5
+Гродно,False,-5
+Орша,True,20
+Минск,False,-5
+</variants>
+  </question>
+  <question name="ВОВ №5">
+    <text>«Тигр», на которого русские охотились с гранатой – это кто?</text>
+    <time>10</time>
+    <difficulty>2</difficulty>
+    <variants>Немецкий танк,True,10
+Японская артиллерия,False,-10
+Немецкий офицер,False,-10
+Финский снайпер,False,-10
+</variants>
+  </question>
+  <question name="Спорт №1">
+    <text>Родина игры "Хоккей"</text>
+    <time>10</time>
+    <difficulty>1</difficulty>
+    <variants>Россия,False,-10
+Канада,True,10
+США,False,-10
+Франция,False,-10
+</variants>
+  </question>
+  <question name="Спорт №2">
+    <text>В какую игру любил играть Крокодил Гена?</text>
+    <time>10</time>
+    <difficulty>3</difficulty>
+    <variants>Шашки,False,-10
+Хоккей,False,-10
+Футбол,False,-10
+Шахматы,True,15
+</variants>
+  </question>
+  <question name="Спорт №3">
+    <text>В скольких метрах от мяча во время штрафного удара в футболе должна находиться «стенка»?</text>
+    <time>10</time>
+    <difficulty>3</difficulty>
+    <variants>В девяти,True,15
+В семи,False,-10
+В восьми,False,-10
+В одиннадцати,False,-10
+</variants>
+  </question>
+  <question name="Спорт №4">
+    <text>Какой номер был на футболке у Пеле и Марадоны?</text>
+    <time>10</time>
+    <difficulty>2</difficulty>
+    <variants>11,False,-10
+54,False,-10
+10,True,10
+9,False,-10
+</variants>
+  </question>
+  <question name="Спорт №5">
+    <text>Какое современное государство считается родиной Олимпийских игр?</text>
+    <time>10</time>
+    <difficulty>2</difficulty>
+    <variants>Турция,False,-10
+Греция,True,10
+Италия,False,-10
+Македония,False,-10
+</variants>
+  </question>
+</questions>

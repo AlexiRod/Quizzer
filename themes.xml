@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+  <theme name="ВОВ">
+    <questions>ВОВ №1
+ВОВ №2
+ВОВ №3
+ВОВ №4
+ВОВ №5
+</questions>
+  </theme>
+  <theme name="Спорт">
+    <questions>Спорт №1
+Спорт №2
+Спорт №3
+Спорт №4
+Спорт №5
+</questions>
+  </theme>
+</themes>

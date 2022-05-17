@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "juKdHuNghdpK6uWL5+G6fB1Rtf+9we+m6s8DR11fWgQ+6hqjD059Enu773kd2bvFx6TrNwOS6hTdUJKFx/2v1g==",
+  "success": true,
+  "projectFilePath": "D:\\HSE\\Разное\\1 курс\\Прога\\Разное\\Старое, дряхлое и ненужное\\Quizzer\\Quizer\\Quizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
